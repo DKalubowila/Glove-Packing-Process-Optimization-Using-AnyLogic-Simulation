@@ -55,11 +55,16 @@ Data Analysis & Optimization
 Java (inside AnyLogic blocks)
 
 📁 Repository Structure
+
 /GlovePackingSimulation
 │
+
 ├── Manual_Model/          # Before Automation (AnyLogic .alp file)
+
 ├── Automated_Model/       # After Automation (AnyLogic .alp file)
+
 ├── README.md              # Project documentation
+
 └── Outputs/               # Screenshots, reports, graphs (optional)
 
 🚀 How to Run the Simulation
