@@ -79,8 +79,11 @@ Automated_Model.alp
 📈 What I Learned
 
 Building realistic discrete-event simulations
+
 Handling resource constraints and queues
+
 Modeling shift schedules and machine failures
+
 Evaluating and improving system performance through automation
 
 Presenting results using KPIs and efficiency metrics
